@@ -2,3 +2,4 @@ cmake
 numpy
 scipy
 matplotlib
+nestpy==1.4.2
